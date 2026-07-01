@@ -11,7 +11,7 @@ I'm a junior Python developer who is passionate about learning and improving my 
 I'm always looking for opportunities to learn new technologies and become a better developer.
 
 ## 🌐 Socials
-[![Discord](https://img.shields.io/badge/Discord-YourName-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/afkty)
+[![Discord](https://img.shields.io/badge/Discord-AFKTY-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/afkty)
 [![GitHub](https://img.shields.io/badge/GitHub-NotVest-181717?style=for-the-badge&logo=github)](https://github.com/NotVest)
 
 ## 💻 Tech Stack
